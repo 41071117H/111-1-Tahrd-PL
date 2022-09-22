@@ -9,7 +9,6 @@
      str   = 字串
      bool  = 布林值
 ## 作業連結區  
-#### *week 2* http://localhost:8888/notebooks/Desktop/習題.ipynb
- https://github.com/41071117H/111-1-Tahrd-PL/blob/main/%E7%BF%92%E9%A1%8C.ipynb
+#### *week 2*  https://github.com/41071117H/111-1-Tahrd-PL/blob/main/%E7%BF%92%E9%A1%8C.ipynb
 
 ## 專題連結區  
