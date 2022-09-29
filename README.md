@@ -8,8 +8,9 @@
      float = 浮點數
      str   = 字串
      bool  = 布林值
-## 作業連結區  
+     
 #### *week 2 練習*  https://github.com/41071117H/111-1-Tahrd-PL/blob/main/%E7%BF%92%E9%A1%8C.ipynb
 #### *week 3 練習*  https://github.com/41071117H/111-1-Tahrd-PL/blob/main/W3%E7%B7%B4%E7%BF%92.ipynb
+## 作業連結區  
 
 ## 專題連結區  
