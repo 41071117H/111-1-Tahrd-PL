@@ -15,5 +15,6 @@
 #### HW1 https://github.com/41071117H/111-1-Tahrd-PL/blob/main/%E4%BD%9C%E6%A5%AD1.ipynb2
 #### *HW2* https://github.com/41071117H/111-1-Tahrd-PL/blob/main/HW2.ipynb
 #### HW3 https://github.com/41071117H/111-1-Tahrd-PL/tree/main/HW3%20%E7%88%AC%E8%9F%B2
+#### HW4 https://medium.com/@41071117h/%E4%BD%BF%E7%94%A8%E6%96%87%E5%AD%97%E6%8E%A2%E5%8B%98%E5%88%86%E6%9E%90%E6%A1%83%E5%9C%92%E6%99%AF%E9%BB%9E-214afa3949a0
 
 ## 專題連結區  
